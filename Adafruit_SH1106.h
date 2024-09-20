@@ -92,7 +92,7 @@ However, SH1106 driver don't provide several functions such as scroll commands.
   #define SH1106_LCDHEIGHT                 16
 #endif
 
-#define SH1106_SETCONTRAST 0x81
+#define SH1106_SETCONTRAST 0x95
 #define SH1106_DISPLAYALLON_RESUME 0xA4
 #define SH1106_DISPLAYALLON 0xA5
 #define SH1106_NORMALDISPLAY 0xA6
